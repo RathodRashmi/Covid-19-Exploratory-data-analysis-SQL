@@ -1,7 +1,7 @@
 /*
 Covid 19 Data Exploration 
 
-Skills used: Joins,Windows Functions, Aggregate Functions, Converting Data Types
+Skills used: Joins,Windows Functions, Aggregate Functions, Converting Data Types,SQL
 */
 
 
